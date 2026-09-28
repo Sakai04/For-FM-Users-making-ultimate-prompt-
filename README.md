@@ -5,6 +5,7 @@
 **FM 유저를 위한 현실성을 반영한 미디어 데스크 (for Gemini)**
 
 > 🔗 **Reference:** [에펨코리아 게시물(10374134863)](https://www.fmkorea.com/10374134863?utm_source=gemini)에 첨부된 프롬프트를 바탕으로 수정 및 디벨롭하는 프로젝트입니다.
+  ** 메인 프론트엔드는 차후 개발 전까지는 [Risu AI](https://risuai.xyz/?mainpage=visited)를 사용합니다
 
 ## 🎙️ [FM] 당신의 세이브 파일을 현실로 만들어줄 "유니버셜 미디어 데스크 AI 프롬프트"
 
